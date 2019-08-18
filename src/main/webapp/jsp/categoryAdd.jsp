@@ -15,7 +15,7 @@
 	<form action="/saveCategory" method = "post">
 		<table border="1" cellspacing="0" cellpadding="5">
 			<tr>
-				<th>菜品分类名称</th>
+				<th>菜品分类名称123123123</th>
 			</tr>
 			<tr>
 				<td>
