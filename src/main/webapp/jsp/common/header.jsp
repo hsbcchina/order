@@ -13,7 +13,7 @@
             <a class="navbar-brand">
                 <small>
                     <i class="icon-leaf"></i>
-                   小四川 家常菜沙井村
+                   小四川 家常菜沙井村1號
                 </small>
             </a><!-- /.brand -->
         </div><!-- /.navbar-header -->
